@@ -1,13 +1,13 @@
 # a opensource script for ddos atack
 
-powered by hammer
+powered by <p style='color:#393b3a;'>hammer</p>
 
 how to install :
 
-1 git clone [project link]
+<p style='color:#cc0a0a;'>1 git clone https://github.com/ArverRubika/ArverDDOS.git</p>
 
-2 cd ArverDDos
+<p style='color:#cc0a0a;'>2 cd ArverDDos</p>
 
-3 pip install -r requirements.txt
+<p style='color:#cc0a0a;'>3 pip install -r requirements.txt</p>
 
-4 python ArverDDos.py
+<p style='color:#cc0a0a;'>4 python ArverDDos.py</p>
