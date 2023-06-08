@@ -1,0 +1,8 @@
+colorama==0.4.6
+queue
+optparse
+socket
+threading
+logging
+urllib
+request==2.31.0
